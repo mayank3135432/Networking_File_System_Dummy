@@ -1,0 +1,187 @@
+#include "naming_server.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <pthread.h>
+
+static StorageServerInfo storage_servers[MAX_CONNECTIONS];
+static int server_count = 0;
+
+// Function to handle each client connection in a new thread
+void *handle_client(void *socket_desc) {
+    int sock = *(int *)socket_desc;
+    free(socket_desc); // Free dynamically allocated memory
+
+    StorageServerInfo ss_info;
+    read(sock, &ss_info, sizeof(ss_info));
+
+    // Store storage server info
+    if (server_count < MAX_CONNECTIONS) {
+        storage_servers[server_count++] = ss_info;
+        printf("Storage Server Registered:\n");
+        printf("IP: %s\n", ss_info.ip);
+        printf("NM Port: %d\n", ss_info.port_nm);
+        printf("Client Port: %d\n", ss_info.port_client);
+        printf("Accessible Paths: %s\n", ss_info.accessible_paths);
+    } else {
+        printf("Maximum storage servers reached.\n");
+    }
+
+    close(sock);
+    return NULL;
+}
+
+// Function to initialize the Naming Server
+void start_naming_server(int port) {
+    int server_fd, new_socket;
+    struct sockaddr_in address;
+    int opt = 1;
+    int addrlen = sizeof(address);
+
+    // Create socket file descriptor
+    if ((server_fd = socket(AF_INET, SOCK_STREAM, 0)) == 0) {
+        perror("socket failed");
+        exit(EXIT_FAILURE);
+    }
+
+    // Forcefully attaching socket to the port
+    if (setsockopt(server_fd, SOL_SOCKET, SO_REUSEADDR, &opt, sizeof(opt))) {
+        perror("setsockopt");
+        exit(EXIT_FAILURE);
+    }
+
+    // Configure address structure
+    address.sin_family = AF_INET;
+    address.sin_addr.s_addr = INADDR_ANY; // Accept connections on all interfaces
+    address.sin_port = htons(port);
+
+    // Bind the socket to the address
+    if (bind(server_fd, (struct sockaddr *)&address, sizeof(address)) < 0) {
+        perror("bind failed");
+        exit(EXIT_FAILURE);
+    }
+
+    // Start listening for incoming connections
+    if (listen(server_fd, MAX_CONNECTIONS) < 0) {
+        perror("listen");
+        exit(EXIT_FAILURE);
+    }
+
+    printf("Naming Server initialized on port %d\n", port);
+
+    while(1) {
+        new_socket = accept(server_fd, (struct sockaddr *)&address, (socklen_t*)&addrlen);
+        if (new_socket < 0) {
+            perror("accept");
+            //continue;
+	    break;
+        }
+
+        // Allocate memory for the socket descriptor
+        int *new_sock = malloc(1);
+        *new_sock = new_socket;
+
+        // Create a new thread for each client
+        pthread_t thread_id;
+        if (pthread_create(&thread_id, NULL, handle_client, (void *)new_sock) < 0) {
+            perror("Could not create thread");
+            free(new_sock); // Free memory if thread creation fails
+        }
+	break;
+    }
+}
+
+
+//include "naming_server.h"
+
+// Thread function to handle individual client connections
+void *handle_client(void *arg) {
+    ClientConnection *client_conn = (ClientConnection *)arg;
+    char buffer[BUFFER_SIZE];
+    int bytes_read;
+
+    // Acknowledge connection
+    printf("Client connected from IP: %s, Port: %d\n",
+           inet_ntoa(client_conn->client_addr.sin_addr),
+           ntohs(client_conn->client_addr.sin_port));
+
+    // Interact with client
+    while ((bytes_read = read(client_conn->socket_fd, buffer, sizeof(buffer))) > 0) {
+        buffer[bytes_read] = '\0'; // Null-terminate the buffer
+        printf("Received message from client: %s\n", buffer);
+
+        // Send back the response
+        write(client_conn->socket_fd, "Acknowledged", strlen("Acknowledged"));
+    }
+
+    // Close the connection when done
+    close(client_conn->socket_fd);
+    free(client_conn);
+    printf("Client disconnected.\n");
+
+    return NULL;
+}
+
+// Function to initialize and start accepting client connections
+void start_accepting_clients(int server_socket_fd) {
+    struct sockaddr_in client_addr;
+    socklen_t client_len = sizeof(client_addr);
+    pthread_t client_thread;
+
+    printf("Naming Server is now accepting clients...\n");
+
+    // Infinite loop to accept multiple clients
+    while (1) {
+        ClientConnection *client_conn = (ClientConnection *)malloc(sizeof(ClientConnection));
+        if (!client_conn) {
+            perror("Failed to allocate memory for client connection");
+            exit(EXIT_FAILURE);
+        }
+
+        // Accept a new client connection
+        client_conn->socket_fd = accept(server_socket_fd, (struct sockaddr *)&client_addr, &client_len);
+        if (client_conn->socket_fd < 0) {
+            perror("Failed to accept client connection");
+            free(client_conn);
+            continue;
+        }
+
+        // Store the client address
+        client_conn->client_addr = client_addr;
+
+        // Create a new thread to handle the client
+        if (pthread_create(&client_thread, NULL, handle_client, (void *)client_conn) != 0) {
+            perror("Failed to create thread for client");
+            free(client_conn);
+            continue;
+        }
+
+        // Detach the thread so it can clean up after itself
+        pthread_detach(client_thread);
+    }
+}
+
+
+int main(int argc, char *argv[]) {
+    if (argc != 2) {
+        fprintf(stderr, "Usage: %s <port>\n", argv[0]);
+        exit(EXIT_FAILURE);
+    }
+
+    int port = atoi(argv[1]);
+    int server_socket_fd;
+
+    // Initialize the Naming Server socket
+    server_socket_fd = start_naming_server(port);
+
+    // Start accepting clients
+    start_accepting_clients(server_socket_fd);
+
+    // Close server socket after use
+    close(server_socket_fd);
+
+    return 0;
+
+}
+

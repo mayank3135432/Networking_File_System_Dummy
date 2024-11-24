@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# Compile client
+echo "Compiling client..."
+gcc clients/client.c clients/client_utils.c -o clients/client -lportaudio -lsndfile -l pthread
+if [ $? -eq 0 ]; then
+    echo "Client compiled successfully."
+else
+    echo "Failed to compile client."
+    exit 1
+fi
+
+# Compile storage server
+echo "Compiling storage server..."
+gcc storage_server/storage_server.c -o storage_server/storage_server -l pthread
+if [ $? -eq 0 ]; then
+    echo "Storage server compiled successfully."
+else
+    echo "Failed to compile storage server."
+    exit 1
+fi
+
+# Compile naming server
+echo "Compiling naming server..."
+gcc naming_server/naming_server.c -o naming_server/naming_server -l pthread
+if [ $? -eq 0 ]; then
+    echo "Naming server compiled successfully."
+else
+    echo "Failed to compile naming server."
+    exit 1
+fi
+
+echo "All programs compiled successfully."

@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "file_manager.h": "c",
+        "string.h": "c",
+        "mpg123.h": "c",
+        "utils.h": "c",
+        "pthread.h": "c",
+        "dirent.h": "c",
+        "inet.h": "c",
+        "fcntl.h": "c",
+        "signal.h": "c",
+        "stdlib.h": "c",
+        "naming_server.h": "c"
+    }
+}

@@ -1,0 +1,1463 @@
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 7
+Request data                      : Stream request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : Connection failed
+Status                            : 500
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : Connection failed
+Status                            : 500
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : Directory not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File already exists
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File already exists
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File already exists
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File already exists
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : Directory not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 3
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 3
+Request data                      : File info sent
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : Directory not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 3
+Request data                      : File info sent
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 3
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 7
+Request data                      : Stream request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : No matching storage server found
+Status                            : 403
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 7
+Request data                      : Stream request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 3
+Request data                      : File info sent
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : Directory not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : Directory not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : File not found
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File already exists
+Status                            : 404
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 2
+Request data                      : Write request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 6
+Request data                      : Read request processed
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+
+Communicating with Client
+NS & client Port number           : 8081
+NS Port number                    : 8081
+Request type                      : 1
+Request data                      : File created successfully
+Status                            : 200
+

@@ -1,0 +1,8 @@
+max size of file path is 256
+Any accessible path(file or folder) is available only on one server.This is for removing ambuiguity.
+file names shall not contain commas, exclaimations and other special charactes (exclucing /)
+No file name or path shall contain the substring "--"
+file name should have some extension(. followed by anything)
+No two files across all STORAGE SERVERS shall have the same absoulute path.
+Input to the storage Server:
+series of files followed by "STOP"
